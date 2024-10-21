@@ -1,0 +1,19 @@
+{
+  "name": "study-buddy-finder-group-5",
+  "version": "1.0.0",
+  "description": "- Install IntelliJ IDEA Ultimate Edition (you can use your student email to get a free license for this): https://www.jetbrains.com/idea/download/?section=mac\r  - Install Java 16(OpenJDK)\r  - Install Docker:\r    - Windows:\r      - Go this link: https://docs.docker.com/desktop/windows/install/\r      - Choose **Hyper-V backend and Windows containers** to install docker\r      - For installation, you can follow this tutorial as well\r \t\t\t  **(https://www.youtube.com/watch?v=_9AWYlt86B8&t=251s)**\r    - Mac:\r      - Go to this link: https://docs.docker.com/desktop/install/mac-install/\r      - Choose **Mac with Intel chip** or **Mac with Apple chip** depending on your specific machine",
+  "main": "index.js",
+  "name": "gitprojects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}

@@ -1,0 +1,13 @@
+server:
+  port : 8080
+spring:
+  datasource:
+#    url: jdbc:mysql://localhost:3306/study_buddy_finder
+    url: jdbc:mysql://34.125.7.131:3306/study_buddy_finder
+    username: root
+#    password: password
+    password: C4.C46d1£1>F
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
