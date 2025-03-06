@@ -1,5 +1,5 @@
 # What is Study Buddy Finder?
-This project was assigned in my Software Engineering II class and lasted all semester. On the last day of class, each group presented their project to the mentors, our professor, and the other groups. It involved making a website which facilitated the creation of study sessions with or without tutors as specified. It uses a React frontend and a Java backend. We managed to run it using the Google Cloud Platform (GCP) and 
+This project was assigned in my Software Engineering II class and lasted all semester. On the last day of class, each group presented their project to the mentors, our professor, and the other groups. It involved making a website which facilitated the creation of study sessions with or without tutors as specified. It uses a React frontend and a Java backend using Java Spring. We managed to run it using the Google Cloud Platform (GCP) and 
 
 ## My Role and Contributions
 Our group was divided by into the following roles:
